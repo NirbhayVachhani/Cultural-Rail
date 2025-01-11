@@ -23,16 +23,6 @@ To get started with Cultural Rail development, follow these steps:
 3. Open the project in Unity.
 4. Start exploring and contributing!
 
-## How to Contribute
-
-If you'd like to contribute to Cultural Rail, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make changes and commit them.
-4. Push the changes to your fork.
-5. Submit a pull request.
-
 ## Future Enhancements
 
 - Multiplayer mode for collaborative learning.
